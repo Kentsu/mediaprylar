@@ -34,7 +34,7 @@
     "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/yellowbox-52x56-1.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
